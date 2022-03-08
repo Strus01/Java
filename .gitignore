@@ -1,0 +1,6 @@
+**.idea/
+.metadata/
+**out/
+**.iml
+Test**.java
+/zadanie2/src/Test.java
